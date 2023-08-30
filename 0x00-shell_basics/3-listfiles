@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -l
+=======
+ls -l 
+
+>>>>>>> origin/master
